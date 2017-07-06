@@ -1,0 +1,1889 @@
+fileFormatVersion: 2
+guid: 64e4fa077e1e2b9488659cfe565dc7de
+timeCreated: 1498706007
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bad faces
+    100002: Bad faces_10
+    100004: Bad faces_11
+    100006: Bad faces_12
+    100008: Bad faces_13
+    100010: Bad faces_14
+    100012: Bad faces_15
+    100014: Bad faces_16
+    100016: Bad faces_17
+    100018: Bad faces_18
+    100020: Bad faces_19
+    100022: Bad faces_2
+    100024: Bad faces_20
+    100026: Bad faces_21
+    100028: Bad faces_22
+    100030: Bad faces_23
+    100032: Bad faces_24
+    100034: Bad faces_25
+    100036: Bad faces_26
+    100038: Bad faces_27
+    100040: Bad faces_28
+    100042: Bad faces_29
+    100044: Bad faces_3
+    100046: Bad faces_30
+    100048: Bad faces_31
+    100050: Bad faces_32
+    100052: Bad faces_33
+    100054: Bad faces_34
+    100056: Bad faces_35
+    100058: Bad faces_36
+    100060: Bad faces_37
+    100062: Bad faces_38
+    100064: Bad faces_39
+    100066: Bad faces_4
+    100068: Bad faces_40
+    100070: Bad faces_41
+    100072: Bad faces_42
+    100074: Bad faces_43
+    100076: Bad faces_44
+    100078: Bad faces_45
+    100080: Bad faces_46
+    100082: Bad faces_47
+    100084: Bad faces_48
+    100086: Bad faces_49
+    100088: Bad faces_5
+    100090: Bad faces_50
+    100092: Bad faces_51
+    100094: Bad faces_52
+    100096: Bad faces_53
+    100098: Bad faces_54
+    100100: Bad faces_55
+    100102: Bad faces_56
+    100104: Bad faces_57
+    100106: Bad faces_58
+    100108: Bad faces_59
+    100110: Bad faces_6
+    100112: Bad faces_60
+    100114: Bad faces_7
+    100116: Bad faces_8
+    100118: Bad faces_9
+    100120: //RootNode
+    100122: Object_1
+    100124: Object_10
+    100126: Object_100
+    100128: Object_101
+    100130: Object_102
+    100132: Object_103
+    100134: Object_104
+    100136: Object_105
+    100138: Object_106
+    100140: Object_107
+    100142: Object_108
+    100144: Object_109
+    100146: Object_11
+    100148: Object_110
+    100150: Object_111
+    100152: Object_112
+    100154: Object_113
+    100156: Object_114
+    100158: Object_115
+    100160: Object_116
+    100162: Object_117
+    100164: Object_118
+    100166: Object_119
+    100168: Object_12
+    100170: Object_120
+    100172: Object_121
+    100174: Object_122
+    100176: Object_123
+    100178: Object_124
+    100180: Object_125
+    100182: Object_126
+    100184: Object_127
+    100186: Object_128
+    100188: Object_129
+    100190: Object_13
+    100192: Object_130
+    100194: Object_131
+    100196: Object_132
+    100198: Object_133
+    100200: Object_134
+    100202: Object_135
+    100204: Object_136
+    100206: Object_137
+    100208: Object_138
+    100210: Object_139
+    100212: Object_14
+    100214: Object_140
+    100216: Object_141
+    100218: Object_142
+    100220: Object_143
+    100222: Object_144
+    100224: Object_145
+    100226: Object_146
+    100228: Object_147
+    100230: Object_148
+    100232: Object_149
+    100234: Object_15
+    100236: Object_150
+    100238: Object_151
+    100240: Object_152
+    100242: Object_153
+    100244: Object_154
+    100246: Object_155
+    100248: Object_156
+    100250: Object_157
+    100252: Object_158
+    100254: Object_159
+    100256: Object_16
+    100258: Object_160
+    100260: Object_161
+    100262: Object_162
+    100264: Object_163
+    100266: Object_164
+    100268: Object_165
+    100270: Object_166
+    100272: Object_167
+    100274: Object_168
+    100276: Object_169
+    100278: Object_17
+    100280: Object_170
+    100282: Object_171
+    100284: Object_172
+    100286: Object_173
+    100288: Object_174
+    100290: Object_175
+    100292: Object_176
+    100294: Object_177
+    100296: Object_178
+    100298: Object_179
+    100300: Object_18
+    100302: Object_180
+    100304: Object_181
+    100306: Object_182
+    100308: Object_183
+    100310: Object_184
+    100312: Object_185
+    100314: Object_186
+    100316: Object_187
+    100318: Object_188
+    100320: Object_189
+    100322: Object_19
+    100324: Object_190
+    100326: Object_191
+    100328: Object_192
+    100330: Object_193
+    100332: Object_194
+    100334: Object_195
+    100336: Object_196
+    100338: Object_197
+    100340: Object_198
+    100342: Object_199
+    100344: Object_20
+    100346: Object_200
+    100348: Object_201
+    100350: Object_202
+    100352: Object_203
+    100354: Object_204
+    100356: Object_205
+    100358: Object_206
+    100360: Object_207
+    100362: Object_208
+    100364: Object_209
+    100366: Object_21
+    100368: Object_210
+    100370: Object_211
+    100372: Object_212
+    100374: Object_213
+    100376: Object_214
+    100378: Object_215
+    100380: Object_216
+    100382: Object_217
+    100384: Object_218
+    100386: Object_219
+    100388: Object_22
+    100390: Object_220
+    100392: Object_221
+    100394: Object_222
+    100396: Object_223
+    100398: Object_224
+    100400: Object_225
+    100402: Object_226
+    100404: Object_227
+    100406: Object_228
+    100408: Object_229
+    100410: Object_23
+    100412: Object_230
+    100414: Object_231
+    100416: Object_232
+    100418: Object_233
+    100420: Object_234
+    100422: Object_235
+    100424: Object_236
+    100426: Object_237
+    100428: Object_238
+    100430: Object_239
+    100432: Object_24
+    100434: Object_240
+    100436: Object_241
+    100438: Object_242
+    100440: Object_243
+    100442: Object_244
+    100444: Object_245
+    100446: Object_246
+    100448: Object_247
+    100450: Object_248
+    100452: Object_249
+    100454: Object_25
+    100456: Object_250
+    100458: Object_251
+    100460: Object_252
+    100462: Object_253
+    100464: Object_254
+    100466: Object_255
+    100468: Object_256
+    100470: Object_257
+    100472: Object_258
+    100474: Object_259
+    100476: Object_26
+    100478: Object_260
+    100480: Object_261
+    100482: Object_262
+    100484: Object_263
+    100486: Object_264
+    100488: Object_265
+    100490: Object_266
+    100492: Object_267
+    100494: Object_268
+    100496: Object_269
+    100498: Object_27
+    100500: Object_270
+    100502: Object_271
+    100504: Object_272
+    100506: Object_273
+    100508: Object_274
+    100510: Object_275
+    100512: Object_276
+    100514: Object_277
+    100516: Object_278
+    100518: Object_279
+    100520: Object_28
+    100522: Object_280
+    100524: Object_281
+    100526: Object_282
+    100528: Object_283
+    100530: Object_284
+    100532: Object_285
+    100534: Object_286
+    100536: Object_287
+    100538: Object_288
+    100540: Object_289
+    100542: Object_29
+    100544: Object_290
+    100546: Object_291
+    100548: Object_292
+    100550: Object_293
+    100552: Object_294
+    100554: Object_295
+    100556: Object_296
+    100558: Object_297
+    100560: Object_298
+    100562: Object_299
+    100564: Object_3
+    100566: Object_30
+    100568: Object_300
+    100570: Object_301
+    100572: Object_302
+    100574: Object_303
+    100576: Object_31
+    100578: Object_32
+    100580: Object_33
+    100582: Object_34
+    100584: Object_35
+    100586: Object_36
+    100588: Object_37
+    100590: Object_38
+    100592: Object_39
+    100594: Object_4
+    100596: Object_40
+    100598: Object_41
+    100600: Object_42
+    100602: Object_43
+    100604: Object_44
+    100606: Object_45
+    100608: Object_46
+    100610: Object_47
+    100612: Object_48
+    100614: Object_49
+    100616: Object_5
+    100618: Object_50
+    100620: Object_51
+    100622: Object_52
+    100624: Object_53
+    100626: Object_54
+    100628: Object_55
+    100630: Object_56
+    100632: Object_57
+    100634: Object_58
+    100636: Object_59
+    100638: Object_6
+    100640: Object_60
+    100642: Object_61
+    100644: Object_62
+    100646: Object_63
+    100648: Object_64
+    100650: Object_65
+    100652: Object_66
+    100654: Object_67
+    100656: Object_68
+    100658: Object_69
+    100660: Object_7
+    100662: Object_70
+    100664: Object_71
+    100666: Object_72
+    100668: Object_73
+    100670: Object_74
+    100672: Object_75
+    100674: Object_76
+    100676: Object_77
+    100678: Object_78
+    100680: Object_79
+    100682: Object_8
+    100684: Object_80
+    100686: Object_81
+    100688: Object_82
+    100690: Object_83
+    100692: Object_84
+    100694: Object_85
+    100696: Object_86
+    100698: Object_87
+    100700: Object_88
+    100702: Object_89
+    100704: Object_9
+    100706: Object_90
+    100708: Object_91
+    100710: Object_92
+    100712: Object_93
+    100714: Object_94
+    100716: Object_95
+    100718: Object_96
+    100720: Object_97
+    100722: Object_98
+    100724: Object_99
+    400000: Bad faces
+    400002: Bad faces_10
+    400004: Bad faces_11
+    400006: Bad faces_12
+    400008: Bad faces_13
+    400010: Bad faces_14
+    400012: Bad faces_15
+    400014: Bad faces_16
+    400016: Bad faces_17
+    400018: Bad faces_18
+    400020: Bad faces_19
+    400022: Bad faces_2
+    400024: Bad faces_20
+    400026: Bad faces_21
+    400028: Bad faces_22
+    400030: Bad faces_23
+    400032: Bad faces_24
+    400034: Bad faces_25
+    400036: Bad faces_26
+    400038: Bad faces_27
+    400040: Bad faces_28
+    400042: Bad faces_29
+    400044: Bad faces_3
+    400046: Bad faces_30
+    400048: Bad faces_31
+    400050: Bad faces_32
+    400052: Bad faces_33
+    400054: Bad faces_34
+    400056: Bad faces_35
+    400058: Bad faces_36
+    400060: Bad faces_37
+    400062: Bad faces_38
+    400064: Bad faces_39
+    400066: Bad faces_4
+    400068: Bad faces_40
+    400070: Bad faces_41
+    400072: Bad faces_42
+    400074: Bad faces_43
+    400076: Bad faces_44
+    400078: Bad faces_45
+    400080: Bad faces_46
+    400082: Bad faces_47
+    400084: Bad faces_48
+    400086: Bad faces_49
+    400088: Bad faces_5
+    400090: Bad faces_50
+    400092: Bad faces_51
+    400094: Bad faces_52
+    400096: Bad faces_53
+    400098: Bad faces_54
+    400100: Bad faces_55
+    400102: Bad faces_56
+    400104: Bad faces_57
+    400106: Bad faces_58
+    400108: Bad faces_59
+    400110: Bad faces_6
+    400112: Bad faces_60
+    400114: Bad faces_7
+    400116: Bad faces_8
+    400118: Bad faces_9
+    400120: //RootNode
+    400122: Object_1
+    400124: Object_10
+    400126: Object_100
+    400128: Object_101
+    400130: Object_102
+    400132: Object_103
+    400134: Object_104
+    400136: Object_105
+    400138: Object_106
+    400140: Object_107
+    400142: Object_108
+    400144: Object_109
+    400146: Object_11
+    400148: Object_110
+    400150: Object_111
+    400152: Object_112
+    400154: Object_113
+    400156: Object_114
+    400158: Object_115
+    400160: Object_116
+    400162: Object_117
+    400164: Object_118
+    400166: Object_119
+    400168: Object_12
+    400170: Object_120
+    400172: Object_121
+    400174: Object_122
+    400176: Object_123
+    400178: Object_124
+    400180: Object_125
+    400182: Object_126
+    400184: Object_127
+    400186: Object_128
+    400188: Object_129
+    400190: Object_13
+    400192: Object_130
+    400194: Object_131
+    400196: Object_132
+    400198: Object_133
+    400200: Object_134
+    400202: Object_135
+    400204: Object_136
+    400206: Object_137
+    400208: Object_138
+    400210: Object_139
+    400212: Object_14
+    400214: Object_140
+    400216: Object_141
+    400218: Object_142
+    400220: Object_143
+    400222: Object_144
+    400224: Object_145
+    400226: Object_146
+    400228: Object_147
+    400230: Object_148
+    400232: Object_149
+    400234: Object_15
+    400236: Object_150
+    400238: Object_151
+    400240: Object_152
+    400242: Object_153
+    400244: Object_154
+    400246: Object_155
+    400248: Object_156
+    400250: Object_157
+    400252: Object_158
+    400254: Object_159
+    400256: Object_16
+    400258: Object_160
+    400260: Object_161
+    400262: Object_162
+    400264: Object_163
+    400266: Object_164
+    400268: Object_165
+    400270: Object_166
+    400272: Object_167
+    400274: Object_168
+    400276: Object_169
+    400278: Object_17
+    400280: Object_170
+    400282: Object_171
+    400284: Object_172
+    400286: Object_173
+    400288: Object_174
+    400290: Object_175
+    400292: Object_176
+    400294: Object_177
+    400296: Object_178
+    400298: Object_179
+    400300: Object_18
+    400302: Object_180
+    400304: Object_181
+    400306: Object_182
+    400308: Object_183
+    400310: Object_184
+    400312: Object_185
+    400314: Object_186
+    400316: Object_187
+    400318: Object_188
+    400320: Object_189
+    400322: Object_19
+    400324: Object_190
+    400326: Object_191
+    400328: Object_192
+    400330: Object_193
+    400332: Object_194
+    400334: Object_195
+    400336: Object_196
+    400338: Object_197
+    400340: Object_198
+    400342: Object_199
+    400344: Object_20
+    400346: Object_200
+    400348: Object_201
+    400350: Object_202
+    400352: Object_203
+    400354: Object_204
+    400356: Object_205
+    400358: Object_206
+    400360: Object_207
+    400362: Object_208
+    400364: Object_209
+    400366: Object_21
+    400368: Object_210
+    400370: Object_211
+    400372: Object_212
+    400374: Object_213
+    400376: Object_214
+    400378: Object_215
+    400380: Object_216
+    400382: Object_217
+    400384: Object_218
+    400386: Object_219
+    400388: Object_22
+    400390: Object_220
+    400392: Object_221
+    400394: Object_222
+    400396: Object_223
+    400398: Object_224
+    400400: Object_225
+    400402: Object_226
+    400404: Object_227
+    400406: Object_228
+    400408: Object_229
+    400410: Object_23
+    400412: Object_230
+    400414: Object_231
+    400416: Object_232
+    400418: Object_233
+    400420: Object_234
+    400422: Object_235
+    400424: Object_236
+    400426: Object_237
+    400428: Object_238
+    400430: Object_239
+    400432: Object_24
+    400434: Object_240
+    400436: Object_241
+    400438: Object_242
+    400440: Object_243
+    400442: Object_244
+    400444: Object_245
+    400446: Object_246
+    400448: Object_247
+    400450: Object_248
+    400452: Object_249
+    400454: Object_25
+    400456: Object_250
+    400458: Object_251
+    400460: Object_252
+    400462: Object_253
+    400464: Object_254
+    400466: Object_255
+    400468: Object_256
+    400470: Object_257
+    400472: Object_258
+    400474: Object_259
+    400476: Object_26
+    400478: Object_260
+    400480: Object_261
+    400482: Object_262
+    400484: Object_263
+    400486: Object_264
+    400488: Object_265
+    400490: Object_266
+    400492: Object_267
+    400494: Object_268
+    400496: Object_269
+    400498: Object_27
+    400500: Object_270
+    400502: Object_271
+    400504: Object_272
+    400506: Object_273
+    400508: Object_274
+    400510: Object_275
+    400512: Object_276
+    400514: Object_277
+    400516: Object_278
+    400518: Object_279
+    400520: Object_28
+    400522: Object_280
+    400524: Object_281
+    400526: Object_282
+    400528: Object_283
+    400530: Object_284
+    400532: Object_285
+    400534: Object_286
+    400536: Object_287
+    400538: Object_288
+    400540: Object_289
+    400542: Object_29
+    400544: Object_290
+    400546: Object_291
+    400548: Object_292
+    400550: Object_293
+    400552: Object_294
+    400554: Object_295
+    400556: Object_296
+    400558: Object_297
+    400560: Object_298
+    400562: Object_299
+    400564: Object_3
+    400566: Object_30
+    400568: Object_300
+    400570: Object_301
+    400572: Object_302
+    400574: Object_303
+    400576: Object_31
+    400578: Object_32
+    400580: Object_33
+    400582: Object_34
+    400584: Object_35
+    400586: Object_36
+    400588: Object_37
+    400590: Object_38
+    400592: Object_39
+    400594: Object_4
+    400596: Object_40
+    400598: Object_41
+    400600: Object_42
+    400602: Object_43
+    400604: Object_44
+    400606: Object_45
+    400608: Object_46
+    400610: Object_47
+    400612: Object_48
+    400614: Object_49
+    400616: Object_5
+    400618: Object_50
+    400620: Object_51
+    400622: Object_52
+    400624: Object_53
+    400626: Object_54
+    400628: Object_55
+    400630: Object_56
+    400632: Object_57
+    400634: Object_58
+    400636: Object_59
+    400638: Object_6
+    400640: Object_60
+    400642: Object_61
+    400644: Object_62
+    400646: Object_63
+    400648: Object_64
+    400650: Object_65
+    400652: Object_66
+    400654: Object_67
+    400656: Object_68
+    400658: Object_69
+    400660: Object_7
+    400662: Object_70
+    400664: Object_71
+    400666: Object_72
+    400668: Object_73
+    400670: Object_74
+    400672: Object_75
+    400674: Object_76
+    400676: Object_77
+    400678: Object_78
+    400680: Object_79
+    400682: Object_8
+    400684: Object_80
+    400686: Object_81
+    400688: Object_82
+    400690: Object_83
+    400692: Object_84
+    400694: Object_85
+    400696: Object_86
+    400698: Object_87
+    400700: Object_88
+    400702: Object_89
+    400704: Object_9
+    400706: Object_90
+    400708: Object_91
+    400710: Object_92
+    400712: Object_93
+    400714: Object_94
+    400716: Object_95
+    400718: Object_96
+    400720: Object_97
+    400722: Object_98
+    400724: Object_99
+    2300000: Bad faces
+    2300002: Bad faces_10
+    2300004: Bad faces_11
+    2300006: Bad faces_12
+    2300008: Bad faces_13
+    2300010: Bad faces_14
+    2300012: Bad faces_15
+    2300014: Bad faces_16
+    2300016: Bad faces_17
+    2300018: Bad faces_18
+    2300020: Bad faces_19
+    2300022: Bad faces_2
+    2300024: Bad faces_20
+    2300026: Bad faces_21
+    2300028: Bad faces_22
+    2300030: Bad faces_23
+    2300032: Bad faces_24
+    2300034: Bad faces_25
+    2300036: Bad faces_26
+    2300038: Bad faces_27
+    2300040: Bad faces_28
+    2300042: Bad faces_29
+    2300044: Bad faces_3
+    2300046: Bad faces_30
+    2300048: Bad faces_31
+    2300050: Bad faces_32
+    2300052: Bad faces_33
+    2300054: Bad faces_34
+    2300056: Bad faces_35
+    2300058: Bad faces_36
+    2300060: Bad faces_37
+    2300062: Bad faces_38
+    2300064: Bad faces_39
+    2300066: Bad faces_4
+    2300068: Bad faces_40
+    2300070: Bad faces_41
+    2300072: Bad faces_42
+    2300074: Bad faces_43
+    2300076: Bad faces_44
+    2300078: Bad faces_45
+    2300080: Bad faces_46
+    2300082: Bad faces_47
+    2300084: Bad faces_48
+    2300086: Bad faces_49
+    2300088: Bad faces_5
+    2300090: Bad faces_50
+    2300092: Bad faces_51
+    2300094: Bad faces_52
+    2300096: Bad faces_53
+    2300098: Bad faces_54
+    2300100: Bad faces_55
+    2300102: Bad faces_56
+    2300104: Bad faces_57
+    2300106: Bad faces_58
+    2300108: Bad faces_59
+    2300110: Bad faces_6
+    2300112: Bad faces_60
+    2300114: Bad faces_7
+    2300116: Bad faces_8
+    2300118: Bad faces_9
+    2300120: Object_1
+    2300122: Object_10
+    2300124: Object_100
+    2300126: Object_101
+    2300128: Object_102
+    2300130: Object_103
+    2300132: Object_104
+    2300134: Object_105
+    2300136: Object_106
+    2300138: Object_107
+    2300140: Object_108
+    2300142: Object_109
+    2300144: Object_11
+    2300146: Object_110
+    2300148: Object_111
+    2300150: Object_112
+    2300152: Object_113
+    2300154: Object_114
+    2300156: Object_115
+    2300158: Object_116
+    2300160: Object_117
+    2300162: Object_118
+    2300164: Object_119
+    2300166: Object_12
+    2300168: Object_120
+    2300170: Object_121
+    2300172: Object_122
+    2300174: Object_123
+    2300176: Object_124
+    2300178: Object_125
+    2300180: Object_126
+    2300182: Object_127
+    2300184: Object_128
+    2300186: Object_129
+    2300188: Object_13
+    2300190: Object_130
+    2300192: Object_131
+    2300194: Object_132
+    2300196: Object_133
+    2300198: Object_134
+    2300200: Object_135
+    2300202: Object_136
+    2300204: Object_137
+    2300206: Object_138
+    2300208: Object_139
+    2300210: Object_14
+    2300212: Object_140
+    2300214: Object_141
+    2300216: Object_142
+    2300218: Object_143
+    2300220: Object_144
+    2300222: Object_145
+    2300224: Object_146
+    2300226: Object_147
+    2300228: Object_148
+    2300230: Object_149
+    2300232: Object_15
+    2300234: Object_150
+    2300236: Object_151
+    2300238: Object_152
+    2300240: Object_153
+    2300242: Object_154
+    2300244: Object_155
+    2300246: Object_156
+    2300248: Object_157
+    2300250: Object_158
+    2300252: Object_159
+    2300254: Object_16
+    2300256: Object_160
+    2300258: Object_161
+    2300260: Object_162
+    2300262: Object_163
+    2300264: Object_164
+    2300266: Object_165
+    2300268: Object_166
+    2300270: Object_167
+    2300272: Object_168
+    2300274: Object_169
+    2300276: Object_17
+    2300278: Object_170
+    2300280: Object_171
+    2300282: Object_172
+    2300284: Object_173
+    2300286: Object_174
+    2300288: Object_175
+    2300290: Object_176
+    2300292: Object_177
+    2300294: Object_178
+    2300296: Object_179
+    2300298: Object_18
+    2300300: Object_180
+    2300302: Object_181
+    2300304: Object_182
+    2300306: Object_183
+    2300308: Object_184
+    2300310: Object_185
+    2300312: Object_186
+    2300314: Object_187
+    2300316: Object_188
+    2300318: Object_189
+    2300320: Object_19
+    2300322: Object_190
+    2300324: Object_191
+    2300326: Object_192
+    2300328: Object_193
+    2300330: Object_194
+    2300332: Object_195
+    2300334: Object_196
+    2300336: Object_197
+    2300338: Object_198
+    2300340: Object_199
+    2300342: Object_20
+    2300344: Object_200
+    2300346: Object_201
+    2300348: Object_202
+    2300350: Object_203
+    2300352: Object_204
+    2300354: Object_205
+    2300356: Object_206
+    2300358: Object_207
+    2300360: Object_208
+    2300362: Object_209
+    2300364: Object_21
+    2300366: Object_210
+    2300368: Object_211
+    2300370: Object_212
+    2300372: Object_213
+    2300374: Object_214
+    2300376: Object_215
+    2300378: Object_216
+    2300380: Object_217
+    2300382: Object_218
+    2300384: Object_219
+    2300386: Object_22
+    2300388: Object_220
+    2300390: Object_221
+    2300392: Object_222
+    2300394: Object_223
+    2300396: Object_224
+    2300398: Object_225
+    2300400: Object_226
+    2300402: Object_227
+    2300404: Object_228
+    2300406: Object_229
+    2300408: Object_23
+    2300410: Object_230
+    2300412: Object_231
+    2300414: Object_232
+    2300416: Object_233
+    2300418: Object_234
+    2300420: Object_235
+    2300422: Object_236
+    2300424: Object_237
+    2300426: Object_238
+    2300428: Object_239
+    2300430: Object_24
+    2300432: Object_240
+    2300434: Object_241
+    2300436: Object_242
+    2300438: Object_243
+    2300440: Object_244
+    2300442: Object_245
+    2300444: Object_246
+    2300446: Object_247
+    2300448: Object_248
+    2300450: Object_249
+    2300452: Object_25
+    2300454: Object_250
+    2300456: Object_251
+    2300458: Object_252
+    2300460: Object_253
+    2300462: Object_254
+    2300464: Object_255
+    2300466: Object_256
+    2300468: Object_257
+    2300470: Object_258
+    2300472: Object_259
+    2300474: Object_26
+    2300476: Object_260
+    2300478: Object_261
+    2300480: Object_262
+    2300482: Object_263
+    2300484: Object_264
+    2300486: Object_265
+    2300488: Object_266
+    2300490: Object_267
+    2300492: Object_268
+    2300494: Object_269
+    2300496: Object_27
+    2300498: Object_270
+    2300500: Object_271
+    2300502: Object_272
+    2300504: Object_273
+    2300506: Object_274
+    2300508: Object_275
+    2300510: Object_276
+    2300512: Object_277
+    2300514: Object_278
+    2300516: Object_279
+    2300518: Object_28
+    2300520: Object_280
+    2300522: Object_281
+    2300524: Object_282
+    2300526: Object_283
+    2300528: Object_284
+    2300530: Object_285
+    2300532: Object_286
+    2300534: Object_287
+    2300536: Object_288
+    2300538: Object_289
+    2300540: Object_29
+    2300542: Object_290
+    2300544: Object_291
+    2300546: Object_292
+    2300548: Object_293
+    2300550: Object_294
+    2300552: Object_295
+    2300554: Object_296
+    2300556: Object_297
+    2300558: Object_298
+    2300560: Object_299
+    2300562: Object_3
+    2300564: Object_30
+    2300566: Object_300
+    2300568: Object_301
+    2300570: Object_302
+    2300572: Object_303
+    2300574: Object_31
+    2300576: Object_32
+    2300578: Object_33
+    2300580: Object_34
+    2300582: Object_35
+    2300584: Object_36
+    2300586: Object_37
+    2300588: Object_38
+    2300590: Object_39
+    2300592: Object_4
+    2300594: Object_40
+    2300596: Object_41
+    2300598: Object_42
+    2300600: Object_43
+    2300602: Object_44
+    2300604: Object_45
+    2300606: Object_46
+    2300608: Object_47
+    2300610: Object_48
+    2300612: Object_49
+    2300614: Object_5
+    2300616: Object_50
+    2300618: Object_51
+    2300620: Object_52
+    2300622: Object_53
+    2300624: Object_54
+    2300626: Object_55
+    2300628: Object_56
+    2300630: Object_57
+    2300632: Object_58
+    2300634: Object_59
+    2300636: Object_6
+    2300638: Object_60
+    2300640: Object_61
+    2300642: Object_62
+    2300644: Object_63
+    2300646: Object_64
+    2300648: Object_65
+    2300650: Object_66
+    2300652: Object_67
+    2300654: Object_68
+    2300656: Object_69
+    2300658: Object_7
+    2300660: Object_70
+    2300662: Object_71
+    2300664: Object_72
+    2300666: Object_73
+    2300668: Object_74
+    2300670: Object_75
+    2300672: Object_76
+    2300674: Object_77
+    2300676: Object_78
+    2300678: Object_79
+    2300680: Object_8
+    2300682: Object_80
+    2300684: Object_81
+    2300686: Object_82
+    2300688: Object_83
+    2300690: Object_84
+    2300692: Object_85
+    2300694: Object_86
+    2300696: Object_87
+    2300698: Object_88
+    2300700: Object_89
+    2300702: Object_9
+    2300704: Object_90
+    2300706: Object_91
+    2300708: Object_92
+    2300710: Object_93
+    2300712: Object_94
+    2300714: Object_95
+    2300716: Object_96
+    2300718: Object_97
+    2300720: Object_98
+    2300722: Object_99
+    3300000: Bad faces
+    3300002: Bad faces_10
+    3300004: Bad faces_11
+    3300006: Bad faces_12
+    3300008: Bad faces_13
+    3300010: Bad faces_14
+    3300012: Bad faces_15
+    3300014: Bad faces_16
+    3300016: Bad faces_17
+    3300018: Bad faces_18
+    3300020: Bad faces_19
+    3300022: Bad faces_2
+    3300024: Bad faces_20
+    3300026: Bad faces_21
+    3300028: Bad faces_22
+    3300030: Bad faces_23
+    3300032: Bad faces_24
+    3300034: Bad faces_25
+    3300036: Bad faces_26
+    3300038: Bad faces_27
+    3300040: Bad faces_28
+    3300042: Bad faces_29
+    3300044: Bad faces_3
+    3300046: Bad faces_30
+    3300048: Bad faces_31
+    3300050: Bad faces_32
+    3300052: Bad faces_33
+    3300054: Bad faces_34
+    3300056: Bad faces_35
+    3300058: Bad faces_36
+    3300060: Bad faces_37
+    3300062: Bad faces_38
+    3300064: Bad faces_39
+    3300066: Bad faces_4
+    3300068: Bad faces_40
+    3300070: Bad faces_41
+    3300072: Bad faces_42
+    3300074: Bad faces_43
+    3300076: Bad faces_44
+    3300078: Bad faces_45
+    3300080: Bad faces_46
+    3300082: Bad faces_47
+    3300084: Bad faces_48
+    3300086: Bad faces_49
+    3300088: Bad faces_5
+    3300090: Bad faces_50
+    3300092: Bad faces_51
+    3300094: Bad faces_52
+    3300096: Bad faces_53
+    3300098: Bad faces_54
+    3300100: Bad faces_55
+    3300102: Bad faces_56
+    3300104: Bad faces_57
+    3300106: Bad faces_58
+    3300108: Bad faces_59
+    3300110: Bad faces_6
+    3300112: Bad faces_60
+    3300114: Bad faces_7
+    3300116: Bad faces_8
+    3300118: Bad faces_9
+    3300120: Object_1
+    3300122: Object_10
+    3300124: Object_100
+    3300126: Object_101
+    3300128: Object_102
+    3300130: Object_103
+    3300132: Object_104
+    3300134: Object_105
+    3300136: Object_106
+    3300138: Object_107
+    3300140: Object_108
+    3300142: Object_109
+    3300144: Object_11
+    3300146: Object_110
+    3300148: Object_111
+    3300150: Object_112
+    3300152: Object_113
+    3300154: Object_114
+    3300156: Object_115
+    3300158: Object_116
+    3300160: Object_117
+    3300162: Object_118
+    3300164: Object_119
+    3300166: Object_12
+    3300168: Object_120
+    3300170: Object_121
+    3300172: Object_122
+    3300174: Object_123
+    3300176: Object_124
+    3300178: Object_125
+    3300180: Object_126
+    3300182: Object_127
+    3300184: Object_128
+    3300186: Object_129
+    3300188: Object_13
+    3300190: Object_130
+    3300192: Object_131
+    3300194: Object_132
+    3300196: Object_133
+    3300198: Object_134
+    3300200: Object_135
+    3300202: Object_136
+    3300204: Object_137
+    3300206: Object_138
+    3300208: Object_139
+    3300210: Object_14
+    3300212: Object_140
+    3300214: Object_141
+    3300216: Object_142
+    3300218: Object_143
+    3300220: Object_144
+    3300222: Object_145
+    3300224: Object_146
+    3300226: Object_147
+    3300228: Object_148
+    3300230: Object_149
+    3300232: Object_15
+    3300234: Object_150
+    3300236: Object_151
+    3300238: Object_152
+    3300240: Object_153
+    3300242: Object_154
+    3300244: Object_155
+    3300246: Object_156
+    3300248: Object_157
+    3300250: Object_158
+    3300252: Object_159
+    3300254: Object_16
+    3300256: Object_160
+    3300258: Object_161
+    3300260: Object_162
+    3300262: Object_163
+    3300264: Object_164
+    3300266: Object_165
+    3300268: Object_166
+    3300270: Object_167
+    3300272: Object_168
+    3300274: Object_169
+    3300276: Object_17
+    3300278: Object_170
+    3300280: Object_171
+    3300282: Object_172
+    3300284: Object_173
+    3300286: Object_174
+    3300288: Object_175
+    3300290: Object_176
+    3300292: Object_177
+    3300294: Object_178
+    3300296: Object_179
+    3300298: Object_18
+    3300300: Object_180
+    3300302: Object_181
+    3300304: Object_182
+    3300306: Object_183
+    3300308: Object_184
+    3300310: Object_185
+    3300312: Object_186
+    3300314: Object_187
+    3300316: Object_188
+    3300318: Object_189
+    3300320: Object_19
+    3300322: Object_190
+    3300324: Object_191
+    3300326: Object_192
+    3300328: Object_193
+    3300330: Object_194
+    3300332: Object_195
+    3300334: Object_196
+    3300336: Object_197
+    3300338: Object_198
+    3300340: Object_199
+    3300342: Object_20
+    3300344: Object_200
+    3300346: Object_201
+    3300348: Object_202
+    3300350: Object_203
+    3300352: Object_204
+    3300354: Object_205
+    3300356: Object_206
+    3300358: Object_207
+    3300360: Object_208
+    3300362: Object_209
+    3300364: Object_21
+    3300366: Object_210
+    3300368: Object_211
+    3300370: Object_212
+    3300372: Object_213
+    3300374: Object_214
+    3300376: Object_215
+    3300378: Object_216
+    3300380: Object_217
+    3300382: Object_218
+    3300384: Object_219
+    3300386: Object_22
+    3300388: Object_220
+    3300390: Object_221
+    3300392: Object_222
+    3300394: Object_223
+    3300396: Object_224
+    3300398: Object_225
+    3300400: Object_226
+    3300402: Object_227
+    3300404: Object_228
+    3300406: Object_229
+    3300408: Object_23
+    3300410: Object_230
+    3300412: Object_231
+    3300414: Object_232
+    3300416: Object_233
+    3300418: Object_234
+    3300420: Object_235
+    3300422: Object_236
+    3300424: Object_237
+    3300426: Object_238
+    3300428: Object_239
+    3300430: Object_24
+    3300432: Object_240
+    3300434: Object_241
+    3300436: Object_242
+    3300438: Object_243
+    3300440: Object_244
+    3300442: Object_245
+    3300444: Object_246
+    3300446: Object_247
+    3300448: Object_248
+    3300450: Object_249
+    3300452: Object_25
+    3300454: Object_250
+    3300456: Object_251
+    3300458: Object_252
+    3300460: Object_253
+    3300462: Object_254
+    3300464: Object_255
+    3300466: Object_256
+    3300468: Object_257
+    3300470: Object_258
+    3300472: Object_259
+    3300474: Object_26
+    3300476: Object_260
+    3300478: Object_261
+    3300480: Object_262
+    3300482: Object_263
+    3300484: Object_264
+    3300486: Object_265
+    3300488: Object_266
+    3300490: Object_267
+    3300492: Object_268
+    3300494: Object_269
+    3300496: Object_27
+    3300498: Object_270
+    3300500: Object_271
+    3300502: Object_272
+    3300504: Object_273
+    3300506: Object_274
+    3300508: Object_275
+    3300510: Object_276
+    3300512: Object_277
+    3300514: Object_278
+    3300516: Object_279
+    3300518: Object_28
+    3300520: Object_280
+    3300522: Object_281
+    3300524: Object_282
+    3300526: Object_283
+    3300528: Object_284
+    3300530: Object_285
+    3300532: Object_286
+    3300534: Object_287
+    3300536: Object_288
+    3300538: Object_289
+    3300540: Object_29
+    3300542: Object_290
+    3300544: Object_291
+    3300546: Object_292
+    3300548: Object_293
+    3300550: Object_294
+    3300552: Object_295
+    3300554: Object_296
+    3300556: Object_297
+    3300558: Object_298
+    3300560: Object_299
+    3300562: Object_3
+    3300564: Object_30
+    3300566: Object_300
+    3300568: Object_301
+    3300570: Object_302
+    3300572: Object_303
+    3300574: Object_31
+    3300576: Object_32
+    3300578: Object_33
+    3300580: Object_34
+    3300582: Object_35
+    3300584: Object_36
+    3300586: Object_37
+    3300588: Object_38
+    3300590: Object_39
+    3300592: Object_4
+    3300594: Object_40
+    3300596: Object_41
+    3300598: Object_42
+    3300600: Object_43
+    3300602: Object_44
+    3300604: Object_45
+    3300606: Object_46
+    3300608: Object_47
+    3300610: Object_48
+    3300612: Object_49
+    3300614: Object_5
+    3300616: Object_50
+    3300618: Object_51
+    3300620: Object_52
+    3300622: Object_53
+    3300624: Object_54
+    3300626: Object_55
+    3300628: Object_56
+    3300630: Object_57
+    3300632: Object_58
+    3300634: Object_59
+    3300636: Object_6
+    3300638: Object_60
+    3300640: Object_61
+    3300642: Object_62
+    3300644: Object_63
+    3300646: Object_64
+    3300648: Object_65
+    3300650: Object_66
+    3300652: Object_67
+    3300654: Object_68
+    3300656: Object_69
+    3300658: Object_7
+    3300660: Object_70
+    3300662: Object_71
+    3300664: Object_72
+    3300666: Object_73
+    3300668: Object_74
+    3300670: Object_75
+    3300672: Object_76
+    3300674: Object_77
+    3300676: Object_78
+    3300678: Object_79
+    3300680: Object_8
+    3300682: Object_80
+    3300684: Object_81
+    3300686: Object_82
+    3300688: Object_83
+    3300690: Object_84
+    3300692: Object_85
+    3300694: Object_86
+    3300696: Object_87
+    3300698: Object_88
+    3300700: Object_89
+    3300702: Object_9
+    3300704: Object_90
+    3300706: Object_91
+    3300708: Object_92
+    3300710: Object_93
+    3300712: Object_94
+    3300714: Object_95
+    3300716: Object_96
+    3300718: Object_97
+    3300720: Object_98
+    3300722: Object_99
+    4300000: Object_1
+    4300002: Object_3
+    4300004: Object_4
+    4300006: Object_5
+    4300008: Object_6
+    4300010: Object_7
+    4300012: Object_8
+    4300014: Object_9
+    4300016: Object_10
+    4300018: Object_11
+    4300020: Object_12
+    4300022: Object_13
+    4300024: Object_14
+    4300026: Object_15
+    4300028: Object_16
+    4300030: Object_17
+    4300032: Object_18
+    4300034: Object_19
+    4300036: Object_20
+    4300038: Object_21
+    4300040: Object_22
+    4300042: Object_23
+    4300044: Bad faces
+    4300046: Object_24
+    4300048: Bad faces_2
+    4300050: Object_25
+    4300052: Bad faces_3
+    4300054: Object_26
+    4300056: Object_27
+    4300058: Object_28
+    4300060: Object_29
+    4300062: Bad faces_4
+    4300064: Object_30
+    4300066: Bad faces_5
+    4300068: Object_31
+    4300070: Object_32
+    4300072: Bad faces_6
+    4300074: Object_33
+    4300076: Object_34
+    4300078: Object_35
+    4300080: Object_36
+    4300082: Object_37
+    4300084: Object_38
+    4300086: Object_39
+    4300088: Object_40
+    4300090: Object_41
+    4300092: Object_42
+    4300094: Object_43
+    4300096: Bad faces_7
+    4300098: Object_44
+    4300100: Bad faces_8
+    4300102: Object_45
+    4300104: Object_46
+    4300106: Object_47
+    4300108: Bad faces_9
+    4300110: Object_48
+    4300112: Object_49
+    4300114: Object_50
+    4300116: Object_51
+    4300118: Object_52
+    4300120: Object_53
+    4300122: Object_54
+    4300124: Bad faces_10
+    4300126: Object_55
+    4300128: Object_56
+    4300130: Bad faces_11
+    4300132: Object_57
+    4300134: Object_58
+    4300136: Object_59
+    4300138: Object_60
+    4300140: Bad faces_12
+    4300142: Object_61
+    4300144: Bad faces_13
+    4300146: Object_62
+    4300148: Object_63
+    4300150: Object_64
+    4300152: Bad faces_14
+    4300154: Object_65
+    4300156: Object_66
+    4300158: Object_67
+    4300160: Object_68
+    4300162: Object_69
+    4300164: Object_70
+    4300166: Object_71
+    4300168: Object_72
+    4300170: Object_73
+    4300172: Object_74
+    4300174: Bad faces_15
+    4300176: Object_75
+    4300178: Bad faces_16
+    4300180: Object_76
+    4300182: Bad faces_17
+    4300184: Object_77
+    4300186: Object_78
+    4300188: Object_79
+    4300190: Bad faces_18
+    4300192: Object_80
+    4300194: Object_81
+    4300196: Object_82
+    4300198: Bad faces_19
+    4300200: Object_83
+    4300202: Bad faces_20
+    4300204: Object_84
+    4300206: Bad faces_21
+    4300208: Object_85
+    4300210: Object_86
+    4300212: Object_87
+    4300214: Object_88
+    4300216: Object_89
+    4300218: Object_90
+    4300220: Object_91
+    4300222: Object_92
+    4300224: Object_93
+    4300226: Object_94
+    4300228: Object_95
+    4300230: Object_96
+    4300232: Object_97
+    4300234: Object_98
+    4300236: Object_99
+    4300238: Object_100
+    4300240: Object_101
+    4300242: Object_102
+    4300244: Object_103
+    4300246: Object_104
+    4300248: Object_105
+    4300250: Object_106
+    4300252: Object_107
+    4300254: Object_108
+    4300256: Object_109
+    4300258: Object_110
+    4300260: Object_111
+    4300262: Object_112
+    4300264: Object_113
+    4300266: Object_114
+    4300268: Bad faces_22
+    4300270: Object_115
+    4300272: Bad faces_23
+    4300274: Object_116
+    4300276: Object_117
+    4300278: Object_118
+    4300280: Object_119
+    4300282: Object_120
+    4300284: Object_121
+    4300286: Object_122
+    4300288: Object_123
+    4300290: Object_124
+    4300292: Object_125
+    4300294: Object_126
+    4300296: Object_127
+    4300298: Object_128
+    4300300: Object_129
+    4300302: Object_130
+    4300304: Object_131
+    4300306: Object_132
+    4300308: Object_133
+    4300310: Object_134
+    4300312: Object_135
+    4300314: Object_136
+    4300316: Object_137
+    4300318: Object_138
+    4300320: Object_139
+    4300322: Object_140
+    4300324: Object_141
+    4300326: Object_142
+    4300328: Object_143
+    4300330: Object_144
+    4300332: Object_145
+    4300334: Object_146
+    4300336: Object_147
+    4300338: Object_148
+    4300340: Object_149
+    4300342: Object_150
+    4300344: Object_151
+    4300346: Object_152
+    4300348: Object_153
+    4300350: Object_154
+    4300352: Object_155
+    4300354: Object_156
+    4300356: Object_157
+    4300358: Object_158
+    4300360: Object_159
+    4300362: Object_160
+    4300364: Object_161
+    4300366: Object_162
+    4300368: Object_163
+    4300370: Object_164
+    4300372: Object_165
+    4300374: Object_166
+    4300376: Object_167
+    4300378: Object_168
+    4300380: Object_169
+    4300382: Object_170
+    4300384: Object_171
+    4300386: Object_172
+    4300388: Object_173
+    4300390: Object_174
+    4300392: Object_175
+    4300394: Object_176
+    4300396: Object_177
+    4300398: Bad faces_24
+    4300400: Object_178
+    4300402: Object_179
+    4300404: Object_180
+    4300406: Object_181
+    4300408: Object_182
+    4300410: Object_183
+    4300412: Object_184
+    4300414: Bad faces_25
+    4300416: Object_185
+    4300418: Object_186
+    4300420: Object_187
+    4300422: Object_188
+    4300424: Object_189
+    4300426: Object_190
+    4300428: Object_191
+    4300430: Bad faces_26
+    4300432: Object_192
+    4300434: Object_193
+    4300436: Object_194
+    4300438: Object_195
+    4300440: Object_196
+    4300442: Bad faces_27
+    4300444: Object_197
+    4300446: Bad faces_28
+    4300448: Object_198
+    4300450: Object_199
+    4300452: Object_200
+    4300454: Bad faces_29
+    4300456: Object_201
+    4300458: Bad faces_30
+    4300460: Object_202
+    4300462: Object_203
+    4300464: Bad faces_31
+    4300466: Object_204
+    4300468: Bad faces_32
+    4300470: Object_205
+    4300472: Object_206
+    4300474: Object_207
+    4300476: Bad faces_33
+    4300478: Object_208
+    4300480: Bad faces_34
+    4300482: Object_209
+    4300484: Object_210
+    4300486: Object_211
+    4300488: Bad faces_35
+    4300490: Object_212
+    4300492: Bad faces_36
+    4300494: Object_213
+    4300496: Object_214
+    4300498: Object_215
+    4300500: Object_216
+    4300502: Bad faces_37
+    4300504: Object_217
+    4300506: Bad faces_38
+    4300508: Object_218
+    4300510: Object_219
+    4300512: Object_220
+    4300514: Object_221
+    4300516: Object_222
+    4300518: Object_223
+    4300520: Bad faces_39
+    4300522: Object_224
+    4300524: Bad faces_40
+    4300526: Object_225
+    4300528: Object_226
+    4300530: Object_227
+    4300532: Bad faces_41
+    4300534: Object_228
+    4300536: Bad faces_42
+    4300538: Object_229
+    4300540: Object_230
+    4300542: Object_231
+    4300544: Bad faces_43
+    4300546: Object_232
+    4300548: Bad faces_44
+    4300550: Object_233
+    4300552: Object_234
+    4300554: Object_235
+    4300556: Bad faces_45
+    4300558: Object_236
+    4300560: Bad faces_46
+    4300562: Object_237
+    4300564: Object_238
+    4300566: Object_239
+    4300568: Object_240
+    4300570: Object_241
+    4300572: Object_242
+    4300574: Object_243
+    4300576: Object_244
+    4300578: Object_245
+    4300580: Object_246
+    4300582: Object_247
+    4300584: Object_248
+    4300586: Object_249
+    4300588: Object_250
+    4300590: Object_251
+    4300592: Object_252
+    4300594: Bad faces_47
+    4300596: Object_253
+    4300598: Bad faces_48
+    4300600: Object_254
+    4300602: Object_255
+    4300604: Object_256
+    4300606: Bad faces_49
+    4300608: Object_257
+    4300610: Bad faces_50
+    4300612: Object_258
+    4300614: Object_259
+    4300616: Object_260
+    4300618: Bad faces_51
+    4300620: Object_261
+    4300622: Bad faces_52
+    4300624: Object_262
+    4300626: Object_263
+    4300628: Object_264
+    4300630: Object_265
+    4300632: Object_266
+    4300634: Object_267
+    4300636: Object_268
+    4300638: Object_269
+    4300640: Object_270
+    4300642: Object_271
+    4300644: Object_272
+    4300646: Object_273
+    4300648: Object_274
+    4300650: Object_275
+    4300652: Object_276
+    4300654: Object_277
+    4300656: Object_278
+    4300658: Object_279
+    4300660: Object_280
+    4300662: Object_281
+    4300664: Object_282
+    4300666: Object_283
+    4300668: Object_284
+    4300670: Object_285
+    4300672: Object_286
+    4300674: Object_287
+    4300676: Bad faces_53
+    4300678: Object_288
+    4300680: Bad faces_54
+    4300682: Object_289
+    4300684: Object_290
+    4300686: Object_291
+    4300688: Bad faces_55
+    4300690: Object_292
+    4300692: Bad faces_56
+    4300694: Object_293
+    4300696: Object_294
+    4300698: Object_295
+    4300700: Bad faces_57
+    4300702: Object_296
+    4300704: Bad faces_58
+    4300706: Object_297
+    4300708: Object_298
+    4300710: Object_299
+    4300712: Bad faces_59
+    4300714: Object_300
+    4300716: Bad faces_60
+    4300718: Object_301
+    4300720: Object_302
+    4300722: Object_303
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

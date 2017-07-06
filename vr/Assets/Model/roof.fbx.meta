@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: d5cacadf80915ed4084d22d4b9240537
+timeCreated: 1498705518
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bad faces
+    100002: Bad faces_10
+    100004: Bad faces_11
+    100006: Bad faces_2
+    100008: Bad faces_3
+    100010: Bad faces_4
+    100012: Bad faces_5
+    100014: Bad faces_6
+    100016: Bad faces_7
+    100018: Bad faces_8
+    100020: Bad faces_9
+    100022: Object_1
+    100024: Object_10
+    100026: Object_100
+    100028: Object_101
+    100030: Object_102
+    100032: Object_11
+    100034: Object_12
+    100036: Object_13
+    100038: Object_14
+    100040: Object_15
+    100042: Object_16
+    100044: Object_17
+    100046: Object_18
+    100048: Object_19
+    100050: Object_20
+    100052: Object_21
+    100054: Object_22
+    100056: Object_23
+    100058: Object_24
+    100060: Object_25
+    100062: Object_26
+    100064: Object_27
+    100066: Object_28
+    100068: Object_29
+    100070: Object_3
+    100072: Object_30
+    100074: Object_31
+    100076: Object_32
+    100078: Object_33
+    100080: Object_34
+    100082: Object_35
+    100084: Object_36
+    100086: Object_37
+    100088: Object_38
+    100090: Object_39
+    100092: Object_4
+    100094: Object_40
+    100096: Object_41
+    100098: Object_42
+    100100: Object_43
+    100102: Object_44
+    100104: Object_45
+    100106: Object_46
+    100108: Object_47
+    100110: Object_48
+    100112: Object_49
+    100114: Object_5
+    100116: Object_50
+    100118: Object_51
+    100120: Object_52
+    100122: Object_53
+    100124: Object_54
+    100126: Object_55
+    100128: Object_56
+    100130: Object_57
+    100132: Object_58
+    100134: Object_59
+    100136: Object_6
+    100138: Object_60
+    100140: Object_61
+    100142: Object_62
+    100144: Object_63
+    100146: Object_64
+    100148: Object_65
+    100150: Object_66
+    100152: Object_67
+    100154: Object_68
+    100156: Object_69
+    100158: Object_7
+    100160: Object_70
+    100162: Object_71
+    100164: Object_72
+    100166: Object_73
+    100168: Object_74
+    100170: Object_75
+    100172: Object_76
+    100174: Object_77
+    100176: Object_78
+    100178: Object_79
+    100180: Object_8
+    100182: Object_80
+    100184: Object_81
+    100186: Object_82
+    100188: Object_83
+    100190: Object_84
+    100192: Object_85
+    100194: Object_86
+    100196: Object_87
+    100198: Object_88
+    100200: Object_89
+    100202: Object_9
+    100204: Object_90
+    100206: Object_91
+    100208: Object_92
+    100210: Object_93
+    100212: Object_94
+    100214: Object_95
+    100216: Object_96
+    100218: Object_97
+    100220: Object_98
+    100222: Object_99
+    100224: //RootNode
+    400000: Bad faces
+    400002: Bad faces_10
+    400004: Bad faces_11
+    400006: Bad faces_2
+    400008: Bad faces_3
+    400010: Bad faces_4
+    400012: Bad faces_5
+    400014: Bad faces_6
+    400016: Bad faces_7
+    400018: Bad faces_8
+    400020: Bad faces_9
+    400022: Object_1
+    400024: Object_10
+    400026: Object_100
+    400028: Object_101
+    400030: Object_102
+    400032: Object_11
+    400034: Object_12
+    400036: Object_13
+    400038: Object_14
+    400040: Object_15
+    400042: Object_16
+    400044: Object_17
+    400046: Object_18
+    400048: Object_19
+    400050: Object_20
+    400052: Object_21
+    400054: Object_22
+    400056: Object_23
+    400058: Object_24
+    400060: Object_25
+    400062: Object_26
+    400064: Object_27
+    400066: Object_28
+    400068: Object_29
+    400070: Object_3
+    400072: Object_30
+    400074: Object_31
+    400076: Object_32
+    400078: Object_33
+    400080: Object_34
+    400082: Object_35
+    400084: Object_36
+    400086: Object_37
+    400088: Object_38
+    400090: Object_39
+    400092: Object_4
+    400094: Object_40
+    400096: Object_41
+    400098: Object_42
+    400100: Object_43
+    400102: Object_44
+    400104: Object_45
+    400106: Object_46
+    400108: Object_47
+    400110: Object_48
+    400112: Object_49
+    400114: Object_5
+    400116: Object_50
+    400118: Object_51
+    400120: Object_52
+    400122: Object_53
+    400124: Object_54
+    400126: Object_55
+    400128: Object_56
+    400130: Object_57
+    400132: Object_58
+    400134: Object_59
+    400136: Object_6
+    400138: Object_60
+    400140: Object_61
+    400142: Object_62
+    400144: Object_63
+    400146: Object_64
+    400148: Object_65
+    400150: Object_66
+    400152: Object_67
+    400154: Object_68
+    400156: Object_69
+    400158: Object_7
+    400160: Object_70
+    400162: Object_71
+    400164: Object_72
+    400166: Object_73
+    400168: Object_74
+    400170: Object_75
+    400172: Object_76
+    400174: Object_77
+    400176: Object_78
+    400178: Object_79
+    400180: Object_8
+    400182: Object_80
+    400184: Object_81
+    400186: Object_82
+    400188: Object_83
+    400190: Object_84
+    400192: Object_85
+    400194: Object_86
+    400196: Object_87
+    400198: Object_88
+    400200: Object_89
+    400202: Object_9
+    400204: Object_90
+    400206: Object_91
+    400208: Object_92
+    400210: Object_93
+    400212: Object_94
+    400214: Object_95
+    400216: Object_96
+    400218: Object_97
+    400220: Object_98
+    400222: Object_99
+    400224: //RootNode
+    2300000: Bad faces
+    2300002: Bad faces_10
+    2300004: Bad faces_11
+    2300006: Bad faces_2
+    2300008: Bad faces_3
+    2300010: Bad faces_4
+    2300012: Bad faces_5
+    2300014: Bad faces_6
+    2300016: Bad faces_7
+    2300018: Bad faces_8
+    2300020: Bad faces_9
+    2300022: Object_1
+    2300024: Object_10
+    2300026: Object_100
+    2300028: Object_101
+    2300030: Object_102
+    2300032: Object_11
+    2300034: Object_12
+    2300036: Object_13
+    2300038: Object_14
+    2300040: Object_15
+    2300042: Object_16
+    2300044: Object_17
+    2300046: Object_18
+    2300048: Object_19
+    2300050: Object_20
+    2300052: Object_21
+    2300054: Object_22
+    2300056: Object_23
+    2300058: Object_24
+    2300060: Object_25
+    2300062: Object_26
+    2300064: Object_27
+    2300066: Object_28
+    2300068: Object_29
+    2300070: Object_3
+    2300072: Object_30
+    2300074: Object_31
+    2300076: Object_32
+    2300078: Object_33
+    2300080: Object_34
+    2300082: Object_35
+    2300084: Object_36
+    2300086: Object_37
+    2300088: Object_38
+    2300090: Object_39
+    2300092: Object_4
+    2300094: Object_40
+    2300096: Object_41
+    2300098: Object_42
+    2300100: Object_43
+    2300102: Object_44
+    2300104: Object_45
+    2300106: Object_46
+    2300108: Object_47
+    2300110: Object_48
+    2300112: Object_49
+    2300114: Object_5
+    2300116: Object_50
+    2300118: Object_51
+    2300120: Object_52
+    2300122: Object_53
+    2300124: Object_54
+    2300126: Object_55
+    2300128: Object_56
+    2300130: Object_57
+    2300132: Object_58
+    2300134: Object_59
+    2300136: Object_6
+    2300138: Object_60
+    2300140: Object_61
+    2300142: Object_62
+    2300144: Object_63
+    2300146: Object_64
+    2300148: Object_65
+    2300150: Object_66
+    2300152: Object_67
+    2300154: Object_68
+    2300156: Object_69
+    2300158: Object_7
+    2300160: Object_70
+    2300162: Object_71
+    2300164: Object_72
+    2300166: Object_73
+    2300168: Object_74
+    2300170: Object_75
+    2300172: Object_76
+    2300174: Object_77
+    2300176: Object_78
+    2300178: Object_79
+    2300180: Object_8
+    2300182: Object_80
+    2300184: Object_81
+    2300186: Object_82
+    2300188: Object_83
+    2300190: Object_84
+    2300192: Object_85
+    2300194: Object_86
+    2300196: Object_87
+    2300198: Object_88
+    2300200: Object_89
+    2300202: Object_9
+    2300204: Object_90
+    2300206: Object_91
+    2300208: Object_92
+    2300210: Object_93
+    2300212: Object_94
+    2300214: Object_95
+    2300216: Object_96
+    2300218: Object_97
+    2300220: Object_98
+    2300222: Object_99
+    3300000: Bad faces
+    3300002: Bad faces_10
+    3300004: Bad faces_11
+    3300006: Bad faces_2
+    3300008: Bad faces_3
+    3300010: Bad faces_4
+    3300012: Bad faces_5
+    3300014: Bad faces_6
+    3300016: Bad faces_7
+    3300018: Bad faces_8
+    3300020: Bad faces_9
+    3300022: Object_1
+    3300024: Object_10
+    3300026: Object_100
+    3300028: Object_101
+    3300030: Object_102
+    3300032: Object_11
+    3300034: Object_12
+    3300036: Object_13
+    3300038: Object_14
+    3300040: Object_15
+    3300042: Object_16
+    3300044: Object_17
+    3300046: Object_18
+    3300048: Object_19
+    3300050: Object_20
+    3300052: Object_21
+    3300054: Object_22
+    3300056: Object_23
+    3300058: Object_24
+    3300060: Object_25
+    3300062: Object_26
+    3300064: Object_27
+    3300066: Object_28
+    3300068: Object_29
+    3300070: Object_3
+    3300072: Object_30
+    3300074: Object_31
+    3300076: Object_32
+    3300078: Object_33
+    3300080: Object_34
+    3300082: Object_35
+    3300084: Object_36
+    3300086: Object_37
+    3300088: Object_38
+    3300090: Object_39
+    3300092: Object_4
+    3300094: Object_40
+    3300096: Object_41
+    3300098: Object_42
+    3300100: Object_43
+    3300102: Object_44
+    3300104: Object_45
+    3300106: Object_46
+    3300108: Object_47
+    3300110: Object_48
+    3300112: Object_49
+    3300114: Object_5
+    3300116: Object_50
+    3300118: Object_51
+    3300120: Object_52
+    3300122: Object_53
+    3300124: Object_54
+    3300126: Object_55
+    3300128: Object_56
+    3300130: Object_57
+    3300132: Object_58
+    3300134: Object_59
+    3300136: Object_6
+    3300138: Object_60
+    3300140: Object_61
+    3300142: Object_62
+    3300144: Object_63
+    3300146: Object_64
+    3300148: Object_65
+    3300150: Object_66
+    3300152: Object_67
+    3300154: Object_68
+    3300156: Object_69
+    3300158: Object_7
+    3300160: Object_70
+    3300162: Object_71
+    3300164: Object_72
+    3300166: Object_73
+    3300168: Object_74
+    3300170: Object_75
+    3300172: Object_76
+    3300174: Object_77
+    3300176: Object_78
+    3300178: Object_79
+    3300180: Object_8
+    3300182: Object_80
+    3300184: Object_81
+    3300186: Object_82
+    3300188: Object_83
+    3300190: Object_84
+    3300192: Object_85
+    3300194: Object_86
+    3300196: Object_87
+    3300198: Object_88
+    3300200: Object_89
+    3300202: Object_9
+    3300204: Object_90
+    3300206: Object_91
+    3300208: Object_92
+    3300210: Object_93
+    3300212: Object_94
+    3300214: Object_95
+    3300216: Object_96
+    3300218: Object_97
+    3300220: Object_98
+    3300222: Object_99
+    4300000: Object_1
+    4300002: Object_3
+    4300004: Object_4
+    4300006: Object_5
+    4300008: Object_6
+    4300010: Object_7
+    4300012: Object_8
+    4300014: Bad faces
+    4300016: Object_9
+    4300018: Bad faces_2
+    4300020: Object_10
+    4300022: Bad faces_3
+    4300024: Object_11
+    4300026: Bad faces_4
+    4300028: Object_12
+    4300030: Bad faces_5
+    4300032: Object_13
+    4300034: Object_14
+    4300036: Object_15
+    4300038: Object_16
+    4300040: Object_17
+    4300042: Object_18
+    4300044: Object_19
+    4300046: Object_20
+    4300048: Object_21
+    4300050: Object_22
+    4300052: Object_23
+    4300054: Object_24
+    4300056: Object_25
+    4300058: Object_26
+    4300060: Object_27
+    4300062: Object_28
+    4300064: Object_29
+    4300066: Object_30
+    4300068: Object_31
+    4300070: Object_32
+    4300072: Object_33
+    4300074: Object_34
+    4300076: Object_35
+    4300078: Object_36
+    4300080: Object_37
+    4300082: Object_38
+    4300084: Object_39
+    4300086: Object_40
+    4300088: Object_41
+    4300090: Object_42
+    4300092: Object_43
+    4300094: Object_44
+    4300096: Bad faces_6
+    4300098: Object_45
+    4300100: Object_46
+    4300102: Bad faces_7
+    4300104: Object_47
+    4300106: Bad faces_8
+    4300108: Object_48
+    4300110: Object_49
+    4300112: Object_50
+    4300114: Object_51
+    4300116: Object_52
+    4300118: Object_53
+    4300120: Object_54
+    4300122: Object_55
+    4300124: Object_56
+    4300126: Object_57
+    4300128: Object_58
+    4300130: Object_59
+    4300132: Object_60
+    4300134: Object_61
+    4300136: Object_62
+    4300138: Object_63
+    4300140: Bad faces_9
+    4300142: Object_64
+    4300144: Object_65
+    4300146: Bad faces_10
+    4300148: Object_66
+    4300150: Object_67
+    4300152: Object_68
+    4300154: Object_69
+    4300156: Object_70
+    4300158: Object_71
+    4300160: Object_72
+    4300162: Object_73
+    4300164: Object_74
+    4300166: Bad faces_11
+    4300168: Object_75
+    4300170: Object_76
+    4300172: Object_77
+    4300174: Object_78
+    4300176: Object_79
+    4300178: Object_80
+    4300180: Object_81
+    4300182: Object_82
+    4300184: Object_83
+    4300186: Object_84
+    4300188: Object_85
+    4300190: Object_86
+    4300192: Object_87
+    4300194: Object_88
+    4300196: Object_89
+    4300198: Object_90
+    4300200: Object_91
+    4300202: Object_92
+    4300204: Object_93
+    4300206: Object_94
+    4300208: Object_95
+    4300210: Object_96
+    4300212: Object_97
+    4300214: Object_98
+    4300216: Object_99
+    4300218: Object_100
+    4300220: Object_101
+    4300222: Object_102
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
